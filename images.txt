@@ -1,10 +1,2 @@
-nginx
-minio/minio
-pgvector/pgvector:pg16
-redis
-appflowyinc/gotrue:latest
-appflowyinc/appflowy_cloud:latest
-appflowyinc/admin_frontend:latest
-appflowyinc/appflowy_ai:latest
-appflowyinc/appflowy_worker:latest
-appflowyinc/appflowy_web:latest
+q2316367743/knowledge-base:2.7.2
+mysql
