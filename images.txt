@@ -1,2 +1,1 @@
-q2316367743/knowledge-base:2.7.2
 mysql
