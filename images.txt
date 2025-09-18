@@ -1,2 +1,4 @@
-nacos/nacos-server
-mysql:8.0.30
+ubuntu/mysql:8.0-22.04_beta
+bennythink/php:8.2
+bennythink/ipv4.fail
+unless-stopped
