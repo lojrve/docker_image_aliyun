@@ -1,1 +1,2 @@
-lizardbyte/sunshine:v2025.917.33729-debian-trixie
+maven:3.9-eclipse-temurin-17
+node:18-alpine
