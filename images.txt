@@ -1,1 +1,1 @@
-node:24-alpine
+ruvnet/wifi-densepose:latest
