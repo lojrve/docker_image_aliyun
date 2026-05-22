@@ -1,2 +1,8 @@
-nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
-python:3.11-slim-bullseye
+sca-registry.cn-hangzhou.cr.aliyuncs.com/dubbo/mysql:8.0.35
+docker.elastic.co/elasticsearch/elasticsearch:9.1.2
+docker.elastic.co/kibana/kibana:9.1.2
+curlimages/curl:latest
+sls-opensource-registry.cn-shanghai.cr.aliyuncs.com/loongcollector-community-edition/loongcollector:3.1.4
+nacos/nacos-server:latest
+redis:7.2.5
+apache/rocketmq:5.3.2
